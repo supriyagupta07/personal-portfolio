@@ -1,5 +1,5 @@
 
-import { DirectionsSubway } from "@material-ui/icons";
+import { DirectionsSubway } from "@mui/icons-material";
 import Proj1 from "../Assets/AIpicture.jpeg";
 import Proj2 from "../Assets/diary.jpeg";
 
