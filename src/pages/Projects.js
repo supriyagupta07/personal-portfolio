@@ -10,10 +10,10 @@ function Projects(){
     <div className="projects"> 
         <h1> My Projects </h1>
         <div className="projectList">
-            <ProjectItem name = "y5tytyty" image = {Proj1}> 
+            <ProjectItem name = "AI ChatBot Clone" image = {Proj1}> 
             </ProjectItem>
 
-            <ProjectItem name = "gi" image = {Proj2}> 
+            <ProjectItem name = "Smart lock Diary" image = {Proj2}> 
 
             </ProjectItem>
         </div>
