@@ -10,9 +10,17 @@ function Home(){
             <div className=" prompt"> 
                 <p>Budding developer with a passion to learn and create
                 </p> 
-                <LinkedInIcon/>
-                <GitHubIcon/>
-                <EmailIcon/>
+                <div className='socialMedia'>
+        <a href="https://www.linkedin.com/in/gupta-supriya/" target="_blank" rel="noopener noreferrer">
+          <LinkedInIcon />
+        </a>
+        <a href="https://github.com/supriyagupta07" target="_blank" rel="noopener noreferrer">
+          <GitHubIcon />
+        </a>
+        <a href="mailto:gupta.supriya.official@gmail.com">
+          <EmailIcon />
+        </a>
+      </div>
             </div>
         </div>
         <div className = "skills"> 
