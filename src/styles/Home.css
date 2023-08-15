@@ -77,4 +77,12 @@
     .skills h3 {
       font-size: 30px;
     }
+
+    .animation-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    
   }

@@ -4,7 +4,7 @@ import  GitHubIcon from '@mui/icons-material/GitHub'
 import  EmailIcon from '@mui/icons-material/Email'
 import "../styles/Home.css"
 function Home(){
-    return  <div className="home">
+    return  <div className="home">  
         <div className = "about"> 
             <h1> Hi, I'm Supriya</h1>
             <div className=" prompt"> 
@@ -20,6 +20,10 @@ function Home(){
         <a href="mailto:gupta.supriya.official@gmail.com">
           <EmailIcon />
         </a>
+      </div>
+      <div className="animation-container">
+        {/* Add your animated picture here */}
+        <img src="https://th.bing.com/th/id/R.f0fef1eb96e50c4820eee35462a62ab2?rik=OL8TvqhmzhIhrg&pid=ImgRaw&r=0" className="animated-picture" />
       </div>
             </div>
         </div>
@@ -40,6 +44,7 @@ function Home(){
             </li>
          </ol>
         </div>
+        
     </div> //this div gives the words under navbar 
     
 }
