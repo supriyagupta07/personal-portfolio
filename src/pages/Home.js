@@ -23,7 +23,7 @@ function Home(){
       </div>
       <div className="animation-container">
         {/* Add your animated picture here */}
-        <img src="https://th.bing.com/th/id/R.f0fef1eb96e50c4820eee35462a62ab2?rik=OL8TvqhmzhIhrg&pid=ImgRaw&r=0" className="animated-picture" />
+        <img src="https://th.bing.com/th/id/R.f0fef1eb96e50c4820eee35462a62ab2?rik=OL8TvqhmzhIhrg&pid=ImgRaw&r=0" alt="animation" className="animated-picture" />
       </div>
             </div>
         </div>
