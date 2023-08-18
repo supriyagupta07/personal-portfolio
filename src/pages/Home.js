@@ -32,15 +32,20 @@ function Home(){
             <ol className="list"> 
             <li className="item"> 
                 <h> Front-End </h>
-                <span> Javascript, HTML, CSS, React</span>
+                <span> Javascript, HTML, CSS, React, TailWind CSS</span>
             </li>
             <li className="item"> 
                 <h> Back-End </h>
-                <span> Django</span>
+                <span> Django, Flask, Testing, Webservers, APIs, Deployment</span>
+              
             </li>
             <li className="item"> 
                 <h> Languages </h>
                 <span> Python, Java</span>
+            </li>
+            <li className="item"> 
+                <h> Others </h>
+                <span> Version controlling(GITHUB)</span>
             </li>
          </ol>
         </div>
